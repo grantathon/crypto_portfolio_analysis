@@ -3,6 +3,8 @@ A Jupyter notebook that helps me get a better viewpoint into my crypto portfolio
 
 [Display notebook](http://nbviewer.jupyter.org/github/grantathon/crypto_portfolio_analysis/blob/master/crypto_portfolio_analyzer.ipynb)
 
+Also, [click here](https://www.freecodecamp.org/news/i-built-a-jupyter-notebook-that-will-analyze-cryptocurrency-portfolios-for-you-bdaba618aeca/) to read an article I wrote on freeCodeCamp about the analysis.
+
 ## Requirements
 To be able to run the notebook, you'll need to first install the python packages listed in requirements.txt. I suggest doing so in a virtual environment.
 
